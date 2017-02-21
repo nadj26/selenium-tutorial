@@ -47,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/Registration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.09235669">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -668,12 +668,12 @@
       <option name="number" value="Default" />
       <updated>1487604653847</updated>
       <workItem from="1487604655432" duration="3958000" />
-      <workItem from="1487610717487" duration="21551000" />
+      <workItem from="1487610717487" duration="21632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25509000" />
+    <option name="totallyTimeSpent" value="25590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
@@ -721,7 +721,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Registration.java</url>
-          <line>64</line>
+          <line>61</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -894,7 +894,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/Registration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09235669">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

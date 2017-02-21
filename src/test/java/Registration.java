@@ -11,12 +11,9 @@ import javax.management.openmbean.KeyAlreadyExistsException;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by jo on 20/02/17.
- */
 public class Registration {
 
-    String driverPath = "/Users/jo/Downloads/selenium-tutorial/";
+    String driverPath = "./";
     private WebDriver driver;
     private String baseUrl;
 
